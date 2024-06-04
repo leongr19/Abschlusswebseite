@@ -1,0 +1,15 @@
+div, p  , h1 {
+    color: white;
+}
+
+body {
+    background-color: #434343;
+}
+
+div, p {
+    justify-content: center;
+}
+
+a {
+    color: rgb(157, 151, 211);
+}
